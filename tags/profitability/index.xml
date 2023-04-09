@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profitability | Lin Tan</title>
+    <link>https://lintan-tsinghua.github.io/tags/profitability/</link>
+      <atom:link href="https://lintan-tsinghua.github.io/tags/profitability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Profitability</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Profitability</title>
+      <link>https://lintan-tsinghua.github.io/tags/profitability/</link>
+    </image>
+    
+    <item>
+      <title>Anomaly Returns and FOMC</title>
+      <link>https://lintan-tsinghua.github.io/publication/preprint1/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/publication/preprint1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

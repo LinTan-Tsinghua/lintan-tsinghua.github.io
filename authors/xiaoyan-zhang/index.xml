@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyan Zhang | Lin Tan</title>
+    <link>https://lintan-tsinghua.github.io/authors/xiaoyan-zhang/</link>
+      <atom:link href="https://lintan-tsinghua.github.io/authors/xiaoyan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoyan Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Xiaoyan Zhang</title>
+      <link>https://lintan-tsinghua.github.io/authors/xiaoyan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Anomaly Returns and FOMC</title>
+      <link>https://lintan-tsinghua.github.io/publication/preprint1/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/publication/preprint1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Price Discovery and Market Quality Are Most Needed: The Role of Retail Investors During Pandemic</title>
+      <link>https://lintan-tsinghua.github.io/publication/preprint/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
