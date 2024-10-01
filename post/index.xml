@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Lin Tan</title>
+    <title>Publications | Lin Tan</title>
     <link>https://lintan-tsinghua.github.io/post/</link>
       <atom:link href="https://lintan-tsinghua.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright>
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Posts</title>
+      <title>Publications</title>
       <link>https://lintan-tsinghua.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Anomaly Returns and FOMC</title>
+      <link>https://lintan-tsinghua.github.io/post/preprint1/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/post/preprint1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macro Announcements and Heterogeneous Investor Trading in the Chinese Stock Market</title>
+      <link>https://lintan-tsinghua.github.io/post/preprint/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/post/preprint/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

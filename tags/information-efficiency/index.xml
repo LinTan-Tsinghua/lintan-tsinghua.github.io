@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Efficiency, | Lin Tan</title>
+    <link>https://lintan-tsinghua.github.io/tags/information-efficiency/</link>
+      <atom:link href="https://lintan-tsinghua.github.io/tags/information-efficiency/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information Efficiency,</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Information Efficiency,</title>
+      <link>https://lintan-tsinghua.github.io/tags/information-efficiency/</link>
+    </image>
+    
+    <item>
+      <title>Retail and Institutional Investor Trading Behaviors: Evidence from China</title>
+      <link>https://lintan-tsinghua.github.io/publication/preprint/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Language Models and Return Prediction in China</title>
+      <link>https://lintan-tsinghua.github.io/talk/preprint2/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/talk/preprint2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Lin Tan</title>
+    <link>https://lintan-tsinghua.github.io/publication_types/3/</link>
+      <atom:link href="https://lintan-tsinghua.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>3</title>
+      <link>https://lintan-tsinghua.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Large Language Models and Return Prediction in China</title>
+      <link>https://lintan-tsinghua.github.io/talk/preprint2/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/talk/preprint2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Can Robot Investment Assistant Help: Collecting Information or Providing Advice? Evidence from China</title>
+      <link>https://lintan-tsinghua.github.io/talk/preprint3/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/talk/preprint3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Returns and FOMC</title>
+      <link>https://lintan-tsinghua.github.io/post/preprint1/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/post/preprint1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Returns and FOMC</title>
+      <link>https://lintan-tsinghua.github.io/talk/preprint1/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/talk/preprint1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

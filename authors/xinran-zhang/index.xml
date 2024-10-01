@@ -5,7 +5,7 @@
     <link>https://lintan-tsinghua.github.io/authors/xinran-zhang/</link>
       <atom:link href="https://lintan-tsinghua.github.io/authors/xinran-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinran Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Xinran Zhang</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
-      <title>When Price Discovery and Market Quality Are Most Needed: The Role of Retail Investors During Pandemic</title>
+      <title>Macro Announcements and Heterogeneous Investor Trading in the Chinese Stock Market</title>
+      <link>https://lintan-tsinghua.github.io/talk/preprint/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/talk/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retail and Institutional Investor Trading Behaviors: Evidence from China</title>
       <link>https://lintan-tsinghua.github.io/publication/preprint/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://lintan-tsinghua.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Price Discovery and Market Quality Are Most Needed: The Role of Retail Investors During Pandemic</title>
+      <link>https://lintan-tsinghua.github.io/publication/preprint1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/publication/preprint1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macro Announcements and Heterogeneous Investor Trading in the Chinese Stock Market</title>
+      <link>https://lintan-tsinghua.github.io/post/preprint/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/post/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macro Announcements and Heterogeneous Investor Trading in the Chinese Stock Market</title>
+      <link>https://lintan-tsinghua.github.io/workingpaper/preprint/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/workingpaper/preprint/</guid>
       <description></description>
     </item>
     

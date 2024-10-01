@@ -5,7 +5,7 @@
     <link>https://lintan-tsinghua.github.io/publication/</link>
       <atom:link href="https://lintan-tsinghua.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Anomaly Returns and FOMC</title>
-      <link>https://lintan-tsinghua.github.io/publication/preprint1/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://lintan-tsinghua.github.io/publication/preprint1/</guid>
+      <title>Retail and Institutional Investor Trading Behaviors: Evidence from China</title>
+      <link>https://lintan-tsinghua.github.io/publication/preprint/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When Price Discovery and Market Quality Are Most Needed: The Role of Retail Investors During Pandemic</title>
-      <link>https://lintan-tsinghua.github.io/publication/preprint/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://lintan-tsinghua.github.io/publication/preprint/</guid>
+      <link>https://lintan-tsinghua.github.io/publication/preprint1/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/publication/preprint1/</guid>
       <description></description>
     </item>
     
