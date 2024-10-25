@@ -5,7 +5,7 @@
     <link>https://lintan-tsinghua.github.io/authors/guofu-zhou/</link>
       <atom:link href="https://lintan-tsinghua.github.io/authors/guofu-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Guofu Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© Lin Tan</copyright><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Guofu Zhou</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Anomaly Returns and FOMC</title>
-      <link>https://lintan-tsinghua.github.io/post/preprint1/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://lintan-tsinghua.github.io/post/preprint1/</guid>
+      <link>https://lintan-tsinghua.github.io/talk/preprint1/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lintan-tsinghua.github.io/talk/preprint1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anomaly Returns and FOMC</title>
-      <link>https://lintan-tsinghua.github.io/talk/preprint1/</link>
+      <link>https://lintan-tsinghua.github.io/post/preprint1/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://lintan-tsinghua.github.io/talk/preprint1/</guid>
+      <guid>https://lintan-tsinghua.github.io/post/preprint1/</guid>
       <description></description>
     </item>
     
